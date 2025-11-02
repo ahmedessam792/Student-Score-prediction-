@@ -21,6 +21,22 @@ The **interactive Streamlit app** lets users input student details and get **ins
 
 ---
 
+## Model Pipeline (Mermaid)
+
+```mermaid
+flowchart TD
+    A[Raw Input] --> B[Handle Missing Values]
+    B --> C[Outlier Capping (IQR)]
+    C --> D[Ordinal Encoding]
+    D --> E[One-Hot Encoding]
+    E --> F[Standard Scaling]
+    F --> G{Use Polynomial?}
+    G -->|Yes| H[Polynomial Features (Deg 2)]
+    G -->|No| I[Linear Regression]
+    H --> J[Polynomial Regression]
+    I --> K[Prediction]
+    J --> K
+---
 ## Model Performance (Final Results)
 
 | Model                  | **MSE** | **RMSE** | **MAE** | **R²** |
