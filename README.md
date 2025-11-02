@@ -82,7 +82,7 @@ Deployment: Streamlit Community Cloud
 ---
 ## Model Pipeline
 
-mermaid
+'''mermaid
 flowchart TD
     A["Raw Input"] --> B["Handle Missing Values"]
     B --> C["Outlier Capping (IQR)"]
