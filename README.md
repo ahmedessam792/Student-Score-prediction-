@@ -80,6 +80,16 @@ Visualization: matplotlib, seaborn
 Deployment: Streamlit Community Cloud
 
 ---
+## Tech Stack
+
+| Category           | Technologies                          |
+|--------------------|---------------------------------------|
+| **Language**       | Python 3.11+                          |
+| **Framework**      | Streamlit                             |
+| **ML Libraries**   | scikit-learn, pandas, numpy           |
+| **Visualization**  | matplotlib, seaborn                   |
+| **Deployment**     | Streamlit Community Cloud             |
+---
 ## Model Pipeline
 
 ```mermaid
