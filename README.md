@@ -2,7 +2,7 @@
 
 **Predict student exam performance using machine learning** – a full end-to-end ML web app built with **Streamlit**, **scikit-learn**, and **pandas**.
 
-Live Demo: [https://your-streamlit-app-link.streamlit.app](https://your-streamlit-app-link.streamlit.app) *(replace with your actual link)*
+
 
 ---
 
@@ -16,12 +16,6 @@ The **interactive Streamlit app** lets users input student details and get **ins
 
 ---
 
-## Live Demo
-
-**Try it now:**  
-[Open the App](https://your-streamlit-app-link.streamlit.app)
-
----
 
 ## Model Performance (Final Results)
 
