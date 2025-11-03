@@ -66,16 +66,6 @@ The **interactive Streamlit app** lets users input student details and get **ins
 
 ## Tech Stack
 
-yaml
-Language: Python 3.11+
-Framework: Streamlit
-ML: scikit-learn, pandas, numpy
-Visualization: matplotlib, seaborn
-Deployment: Streamlit Community Cloud
-
----
-## Tech Stack
-
 | Category           | Technologies                          |
 |--------------------|---------------------------------------|
 | **Language**       | Python 3.11+                          |
