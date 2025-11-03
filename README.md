@@ -1,4 +1,4 @@
-# Student Exam Score Predictor
+# 🎓  Student Exam Score Predictor
 
 **Predict student exam performance using machine learning** – a full end-to-end ML web app built with **Streamlit**, **scikit-learn**, and **pandas**.
 
